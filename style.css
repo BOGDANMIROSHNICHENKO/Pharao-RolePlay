@@ -30,12 +30,12 @@
         font-size: 30px;
         text-decoration: underline white;
         text-align: center;
-        position: relative;
+        position:relative;
         top: 200px;
         color: #fff;
     }
     .content__text{
-        text-width:800px;
+        font-weight: 900;
         font-family: cursive;
         font-style: normal;
         font-size: 18px;
@@ -47,9 +47,9 @@
     }
     .content__download a{
         font-family: cursive;
-        left: 100px;
-        position: relative;
-       top: 660px;
+        left: 120px;
+        position: absolute;
+       top: 800px;
         text-decoration: none;
         color: #fff;
         font-size: 26px;
@@ -58,6 +58,7 @@
         color: #fff;
         font-family: cursive;
     }
+    
    
 }
 @media(min-width:1920px){
@@ -78,7 +79,8 @@
        padding: 0px 60px;
    }
    .content__download a{
-      position: relative;
+       top: 500px;
+      position: absolute;
       left: 1000px;
     text-decoration: none;
     color: #fff;
@@ -90,14 +92,14 @@
     font-size: 30px;
     text-decoration: underline white;
     text-align: center;
-    position: relative;
+    position: absolute;
     font-family: cursive;
     top: 200px;
     color: #fff;
 }
-    .heade__logo{
-        color: #fff;
-        font-family: cursive;
-    }
+.heade__logo{
+    color: #fff;
+    font-family: cursive;
+}
 
 }
