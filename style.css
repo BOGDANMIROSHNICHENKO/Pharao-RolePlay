@@ -16,6 +16,7 @@
         text-align: center;
     }
     .heade__soz{
+        font-weight: 900;
         font-family: cursive;
         position: relative;
         top: 200px;
@@ -25,6 +26,7 @@
         padding: 0px 10px;
     }
     .content__zag{
+        font-weight: 900;
         font-family: cursive;
         font-style: normal;
         font-size: 30px;
@@ -46,6 +48,7 @@
         color: #fff;
     }
     .content__download a{
+        font-weight: 900;
         font-family: cursive;
         left: 120px;
         position: absolute;
