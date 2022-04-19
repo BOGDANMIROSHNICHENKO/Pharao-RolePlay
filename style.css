@@ -45,6 +45,7 @@
         color: #fff;
     }
     .content__download a{
+        background-color:aqua;
         font-weight: 900;
         font-family: cursive;
         left: 150px;
