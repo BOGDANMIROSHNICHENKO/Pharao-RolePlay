@@ -1,12 +1,13 @@
 @media(max-width:1440px){
     .heade__menu a{
-        margin:0px 10px;
+        
         text-decoration: none;
         color: #fff;
         font-size: 20px;
     }
     .heade__menu a{
-        position: relative;
+        position: absolute;
+        left:10px;
         top: 120px;
         padding: 0px 10px;
     }
