@@ -5,15 +5,7 @@
         color: #fff;
         font-size: 20px;
     }
-    .heade__menu a{
-        position: absolute;
-        left:60px;
-        top: 150px;
-        padding: 0px 10px;
-    }
-    .heade__menu{
-        text-align: center;
-    }
+    
     .heade__soz{
         font-weight: 900;
         font-family: cursive;
