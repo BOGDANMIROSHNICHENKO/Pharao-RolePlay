@@ -49,11 +49,11 @@
         font-family: cursive;
         left: 150px;
         position: absolute;
-       top: 600px;
+        top: 600px;
         text-decoration: none;
         color: #fff;
         font-size: 17px;
-        border :1px 1px 1px white;
+        border-radius:10px white;
     }
     .heade__logo{
         color: #fff;
