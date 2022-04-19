@@ -57,6 +57,7 @@
         font-family: cursive;
     }
     .content__img h4{
+        left:20px;
         text-transform: uppercase;
         text-align: center;
         font-weight: 900;
