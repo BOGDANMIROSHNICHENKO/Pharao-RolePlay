@@ -129,5 +129,34 @@
     color: #fff;
     font-family: cursive;
 }
+    .content__img h4{
+        text-transform: uppercase;
+        text-align: center;
+        font-weight: 900;
+        position: absolute;
+        top: 650px;
+        color: #fff;
+    }
+    .content__img img{
+        position: absolute;
+        top: 800px;
+        border-radius: 20px;
+    }
+    .content__img_2 img{
+        border-radius: 20px;
+        position: absolute;
+        top:1000px ;
+    }
+    .content__img_2 h4{
+        left: 5;
+        text-transform: uppercase;
+        text-align: center;
+        font-weight: 900;
+        position: absolute;
+        top: 1200px;
+        color: #fff;
+
+    }
+
 
 }
