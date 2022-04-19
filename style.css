@@ -50,7 +50,7 @@
         font-family: cursive;
         left: 140px;
         position: absolute;
-       top: 800px;
+       top: 700px;
         text-decoration: none;
         color: #fff;
         font-size: 17px;
@@ -80,7 +80,7 @@
        padding: 0px 60px;
    }
    .content__download a{
-       top: 500px;
+       top: 600px;
       position: absolute;
       left: 1000px;
     text-decoration: none;
